@@ -22,14 +22,10 @@ Le poste inclut une part de développement pur, mais vous aurez aussi pour missi
 
 ## Profil
 
-* Expertise PHP7 / Symfony4 / API Platform nécessaire
-* Expérience React appréciée
-* Rigueur et sens de la qualité (tests, maintenabilité, architecture SOLID, …)
-* Expérience en start-up / au bureau d’une asso
-* Expérience agilité (Scrum, Squads, Feature-teams)
-* Partage des valeurs d’AssoConnect
-* Motivé, logique, dynamique, curieux et sympa
-* Intérêt pour le web et le monde associatif
+* Dev full stack confirmé(e) (majeure à confirmer dans la réponse : backend ou FrontEnd ) 
+* Etant curieux(se), solidaire et volontaire 
+* Etant à l’aise avec l’anglais (oral)
+* La connaissance d’un infra cloud type AWS est un plus
 
 ## Stack
 
