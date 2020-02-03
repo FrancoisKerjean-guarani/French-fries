@@ -6,13 +6,13 @@
 
 **Quoi :**  OuiSNCF est le distributeur de la SNCF et une agence de voyages en ligne. C'est le premier site de tourisme en ligne et premier site marchand de France
 
-## Developpeur fullstack 
+## Developpeur fullstack Java/Angular
 
 **Missions :**
 
 Le poste inclut une part de développement pur, mais vous aurez aussi pour missions de :
 
-*Participe au développement et à l’implémentation des users stories que ce soit sur le frontend ou sur le backend (API)
+*Participer au développement et à l’implémentation des users stories que ce soit sur le frontend ou sur le backend (API)
 *Participer à garantir un bon niveau de qualité en automatisant les tests de validation des exigences (démarche BDD) 
 *Contribuer à dépiler le backlog de MCO en concertant le Technical Owner qui est le garant du contenu (et de la priorité) de ce backlog
 *Contribuer à traiter les defects en concertation entre autre avec les membres du support client
