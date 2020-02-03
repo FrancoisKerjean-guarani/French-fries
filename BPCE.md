@@ -12,20 +12,20 @@ Le groupe BPCE est issu de la fusion en 2009 de la Caisse nationale des caisses 
 **Missions :**
 
 CONCEPTION :
-• Définit l’architecture technique du ou des systèmes d’information
-• Vérifie et analyse les impacts techniques des nouvelles solutions et leur cohérence avec l'architecture existante
+* Définit l’architecture technique du ou des systèmes d’information
+* Vérifie et analyse les impacts techniques des nouvelles solutions et leur cohérence avec l'architecture existante
 ADMINISTRATION :
-• Définit et gère le référentiel du système informatique sur les plans : outils, procédures, normes, vocabulaire, sécurité…
-• Définit et gère les standards techniques
+* Définit et gère le référentiel du système informatique sur les plans : outils, procédures, normes, vocabulaire, sécurité…
+* Définit et gère les standards techniques
 PRÉCONISATION :
-• Pour tout nouveau projet ou toute nouvelle technologie, participe à l’étude d’impact sur l’architecture existante ou prévisionnelle
-• Préconise des choix techniques en vue d’assurer la cohérence de cette évolution.
+* Pour tout nouveau projet ou toute nouvelle technologie, participe à l’étude d’impact sur l’architecture existante ou prévisionnelle
+* Préconise des choix techniques en vue d’assurer la cohérence de cette évolution.
 CONSEIL :
-• Conseille l'urbaniste sur l’utilisation et les implémentations possibles des outils informatiques et de télécommunications.
-• Organise les choix de veille technologique
+* Conseille l'urbaniste sur l’utilisation et les implémentations possibles des outils informatiques et de télécommunications.
+* Organise les choix de veille technologique
 COMMUNICATION :
-• Travaille en équipe avec l'Urbaniste des SI
-• Promeut l’architecture technique auprès des informaticiens
+* Travaille en équipe avec l'Urbaniste des SI
+* Promeut l’architecture technique auprès des informaticiens
 
 ## Profil
 
