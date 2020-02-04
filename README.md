@@ -8,7 +8,7 @@ Voici mon code conduite
 
 ## AVANTAGES
 
-* Votre CV, s’il match l’offre, sera traité très rapidement (on parle de quelques heures, max 24H) **car j’ai une relation privilégiée avec les entreprises.
+* Votre CV, s’il match l’offre, sera traité très rapidement (on parle de quelques heures, max 24H) car j’ai une relation privilégiée avec les entreprises.
 * Je vous coach avant l’entretien en vous donnant des conseils, je peux également vous mettre en relation avec des collaborateurs déjà en poste chez le client.
 * L’entretien ne doit pas être un test critique mais plus une discussion pour tester l’humain, qui reste la composante la plus importante dans n’importe quelle structure.
 * Je négocie le salaire pour vous en vous apportant mes connaissances du marché.
